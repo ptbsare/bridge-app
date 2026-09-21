@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.hermes.backupbridge'
+    namespace 'com.hermes.bridge'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.hermes.backupbridge"
+        applicationId "com.hermes.bridge"
         minSdk 26
         targetSdk 34
         versionCode 1
